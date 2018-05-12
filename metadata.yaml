@@ -1,0 +1,28 @@
+_repo: Fifty-Years-of-Railway-Life-in-England-Scotland-and-Ireland_17299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tatlow, Joseph
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '7286'
+    url: http://www.gutenberg.org/2009/agents/7286
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17299'
+  lccn: '21004160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- Great Britain -- History'
+- !lcc 'HE'
+title: Fifty Years of Railway Life in England, Scotland and Ireland
+url: http://www.gutenberg.org/ebooks/17299
